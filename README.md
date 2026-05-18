@@ -1,5 +1,8 @@
 # Intellego Grok AI Assistant for IntelliJ IDEA
 
+[![Version](https://img.shields.io/jetbrains/plugin/v/29268-intellego.svg)](https://plugins.jetbrains.com/plugin/29268-intellego)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/29268-intellego.svg)](https://plugins.jetbrains.com/plugin/29268-intellego)
+
 ## Welcome to the Intellego – Your Grok AI Assistant
 
 ### Required: [xAI account and API credits](https://console.x.ai), typical monthly cost - less than $1
