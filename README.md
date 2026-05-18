@@ -20,16 +20,16 @@ get smart, fast, and context-aware coding help without ever leaving your editor.
 ### What you can do right now?
                     
 * Chat with Grok anytime using the dedicated tool window
-* <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/review_code_icon.svg" width="15" alt="Send to Grok for Review"/>Right-click any code selection → __“Send to Grok for Review”__
+* <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/review_code_icon.svg" width="15" alt="Send to Grok for Review"/>Right-click any code selection → __“Send to Grok for Review”__
 * Choose your model: defaults to the super-fast `grok-code-fast`, but you can switch to other Grok models for general questions or bigger reasoning tasks
-* <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/temperature.png" height="40" alt="Temperature"/>Adjust the Temperature slider: lower = precise & reliable, higher = more creative suggestions
+* <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/temperature.png" height="40" alt="Temperature"/>Adjust the Temperature slider: lower = precise & reliable, higher = more creative suggestions
 * Lightning-fast actions on selected code:
-  * <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/explain_code_icon.svg" width="15" alt="Explain code"/>__Explain Code__ → _Sends selected code to Grok to receive details explanation_
-  * <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/refactor_code_icon.svg" width="15" alt="Refactor and improve"/>__Refactor and improve__ → _Sends selected code to Grok to receive refactored and improved code._
-  * <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/debug_code_icon.svg" width="15" alt="Debug"/>__Debug / Find Bugs__ → _Sends selected code to Grok to help with debuting_
+  * <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/explain_code_icon.svg" width="15" alt="Explain code"/>__Explain Code__ → _Sends selected code to Grok to receive details explanation_
+  * <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/refactor_code_icon.svg" width="15" alt="Refactor and improve"/>__Refactor and improve__ → _Sends selected code to Grok to receive refactored and improved code._
+  * <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/debug_code_icon.svg" width="15" alt="Debug"/>__Debug / Find Bugs__ → _Sends selected code to Grok to help with debuting_
   * Copy to clipboard last Grok's response in markdown
-* <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/auto_copy.png" height="40" alt="Auto copy selected text"/>Switch __ON/OFF__ automated copying selected code to Grok's Assistant
-* <img src="https://diligiteiustitiam.dev/PublicFiles/~raw/main/assets/stateful_calls.png" height="40" alt="Stateful calls"/>Switch __ON/OFF__ stateful API calls. Stateful API makes Grok remember previous queries and context which improves
+* <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/auto_copy.png" height="40" alt="Auto copy selected text"/>Switch __ON/OFF__ automated copying selected code to Grok's Assistant
+* <img src="https://raw.githubusercontent.com/diligiteiust/publicfiles/refs/heads/main/assets/stateful_calls.png" height="40" alt="Stateful calls"/>Switch __ON/OFF__ stateful API calls. Stateful API makes Grok remember previous queries and context which improves
   subsequent answers without a need to repeat all the details from previous calls. However, it may increase overall
   costs of Grok API usage.
 
